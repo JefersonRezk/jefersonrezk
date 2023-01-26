@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <!-- ![snake gif](https://github.com/jefersonrezk/jefersonrezk/blob/output/github-contribution-grid-snake.gif) -->
 
-<img src="https://raw.githubusercontent.com/jefersonrezk/jefersonrezk/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
+<!-- <img src="https://raw.githubusercontent.com/jefersonrezk/jefersonrezk/output/github-contribution-grid-snake.svg" style="max-width: 100%;"> -->
 
 <picture>
 <source 
