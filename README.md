@@ -10,3 +10,15 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AWS, Azure, GCP, OCI, Linux LPIC-1&2, DevOps(CALMS), Docker, Kubernetes, Ansible, Terraform, Prometheus, Grafana, Go, Python, Java...
 - 📫 How to reach me: 📲 +55 (92) 9 8411-4144 / 📧 jefersonrezk@gmail.com
 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=jefersonrezk&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=jefersonrezk&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=jefersonrezk&show_icons=true" />
+</picture>
+
