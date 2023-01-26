@@ -22,3 +22,10 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=jefersonrezk&show_icons=true" />
 </picture>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrezk&layout=compact)](https://github.com/jefersonrezk/github-readme-stats)
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img align="center" alt="danielfnfaria" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"><img align="center" alt="danielfnfaria" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"><img align="center" alt="danielfnfaria" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><img align="center" alt="danielfnfaria" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="max-width: 100%;"></a>
+
