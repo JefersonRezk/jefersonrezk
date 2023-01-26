@@ -7,21 +7,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on DevOps
-- 🌱 I’m currently learning:
-      AWS
--     Azure
--     GCP
--     OCI
--     Linux LPIC-1&2
--     DevOps
--     Docker
--     Kubernete
--     Ansible
--     Terraform
--     Prometheus
--     Grafana
--     Go
--     Python
--     Java...
+- 🌱 I’m currently learning AWS, Azure, GCP, OCI, Linux LPIC-1&2, DevOps, Docker, Kubernetes, Ansible, Terraform, Prometheus, Grafana, Go, Python, Java...
 - 📫 How to reach me: 📲 +55 (92) 9 8411-4144 / 📧 jefersonrezk@gmail.com
 
