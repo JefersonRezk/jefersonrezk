@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Currently, I'm working as a Solutions Architect with the DevOps(CALMS) culture and tools  : GitFlow · ITIL · JIRA · Groovy · Nexus · Sonarqube · Harbor · DevOps · Java · Python · Shell Script · Telegraf · Grafana · Scrum · Azure DevOps · OpenShift · Helm · Vagrant · Kubernetes · GitLab · Gitlab CI · Jenkins · Terraform · Ansible · Amazon Web Services · Google Cloud Platform (GCP) · Git · Docker · Servidor Windows · Linux
+- 🔭 Currently, I'm working as a DevSecOps Engineer with the DevOps(CALMS) culture and tools  : Fortify . SonarQube . Nexus . Crowd . Jira . Bamboo . Bitbucket . Confluence . XL Release . GitHub Actions . Git . Azure . Docker . Red Hat Quay . BMC BladeLogic . Linux . Windows . MacOS. ITIL · Groovy · Harbor · Telegraf · Grafana · Scrum · Azure DevOps · OpenShift · Helm · Vagrant · Kubernetes · GitLab · Gitlab CI · Jenkins · Terraform · Ansible · Amazon Web Services · Google Cloud Platform (GCP)
+
 - 🌱 I’m currently learning AWS, Azure, GCP, OCI, Linux LPIC-1&2, DevOps(CALMS), Docker, Kubernetes, Ansible, Terraform, Prometheus, Grafana, Go, Python, Java...
 - 📫 How to reach me: 📧 jefersonrezk@gmail.com
 
